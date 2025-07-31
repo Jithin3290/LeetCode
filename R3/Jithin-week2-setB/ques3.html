@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        function uniqueElements(n) {
+    let c = n.toLowerCase();
+    let freq = {};
+    for (let ch of c) {
+        freq[ch] = (freq[ch] || 0) + 1;
+    }
+    let count = 0;
+    for (let key in freq) {
+        if (freq[key] === 1) {
+            count++;
+        }
+    }
+    console.log(count);
+}
+
+uniqueElements("BRIDGEON");
+uniqueElements("javascript");
+uniqueElements("Aaa");
+
+    </script>
+</body>
+</html>
