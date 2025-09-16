@@ -1,4 +1,4 @@
- 
+  
 /**
  * @param {number[]} arr
  * @return {number}
