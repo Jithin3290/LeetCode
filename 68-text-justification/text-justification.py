@@ -1,4 +1,3 @@
-
 class Solution(object):
     def fullJustify(self, words, maxWidth):
         """
