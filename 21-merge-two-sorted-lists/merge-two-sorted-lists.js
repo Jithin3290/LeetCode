@@ -1,4 +1,4 @@
-   var mergeTwoLists = function(list1, list2) {
+var mergeTwoLists = function(list1, list2) {
     let dummy = new ListNode(-1);
     let current = dummy;
 
