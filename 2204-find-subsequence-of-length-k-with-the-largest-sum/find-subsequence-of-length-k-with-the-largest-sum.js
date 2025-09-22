@@ -1,4 +1,4 @@
-  function maxSubsequence(nums, k) {
+   function maxSubsequence(nums, k) {
     const withIndex = nums.map((val, idx) => [val, idx]);
 
     withIndex.sort((a, b) => b[0] - a[0]);
