@@ -1,4 +1,4 @@
-  <h2><a href="https://leetcode.com/problems/regular-expression-matching">Regular Expression Matching</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><p>Given an input string <code>s</code>&nbsp;and a pattern <code>p</code>, implement regular expression matching with support for <code>&#39;.&#39;</code> and <code>&#39;*&#39;</code> where:</p>
+   <h2><a href="https://leetcode.com/problems/regular-expression-matching">Regular Expression Matching</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><p>Given an input string <code>s</code>&nbsp;and a pattern <code>p</code>, implement regular expression matching with support for <code>&#39;.&#39;</code> and <code>&#39;*&#39;</code> where:</p>
 
 <ul>
 	<li><code>&#39;.&#39;</code> Matches any single character.​​​​</li>
